@@ -10,4 +10,4 @@ Portfolio projects
 1. Analysis of CSV data for cycling 
 2. Data driven prediction models of energy use of appliances in a low-energy house
 3. Manually implementing a k-means clustering algorithim on arbitrary data points
-
+<img src ="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png/" style="width:200px;height:200px;">
