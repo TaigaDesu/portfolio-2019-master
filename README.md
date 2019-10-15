@@ -10,4 +10,7 @@ Portfolio projects
 1. Analysis of CSV data for cycling 
 2. Data driven prediction models of energy use of appliances in a low-energy house
 3. Manually implementing a k-means clustering algorithim on arbitrary data points
+
+(Commit History from other repository)
 <img src ="CommitHistory\portfolio1 history.JPG" style="width:200px;height:200px;">
+<img src ="CommitHistory\portfolio2 history.JPG" style="width:200px;height:200px;">
