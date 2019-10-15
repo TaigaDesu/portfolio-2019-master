@@ -12,7 +12,7 @@ Portfolio projects
 3. Manually implementing a k-means clustering algorithim on arbitrary data points
 
 (Commit History from other repository)
-<b> Portfolio 1 commit History </b>
+<p><b> Portfolio 1 commit History </b></p>
 <img src ="CommitHistory\portfolio1 history.JPG" style="width:200px;height:200px;">
 <b> Portfolio 2 commit History </b>
 <img src ="CommitHistory\portfolio2 history.JPG" style="width:200px;height:200px;">
