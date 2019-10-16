@@ -17,4 +17,4 @@ Portfolio projects
 <b> Portfolio 2 commit History </b>
 <img src ="CommitHistory\portfolio2 history.JPG" style="width:200px;height:200px;">
 <b> Portfolio 3 commit History </b>
-<img src ="CommitHistory\port3.JPG" style="width:200px;height:200px;">
+<img src ="CommitHistory\port3.PNG" style="width:200px;height:200px;">
