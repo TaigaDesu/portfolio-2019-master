@@ -4,7 +4,7 @@ COMP257/ITEC657 Data Science Portfolio
 <h2><b>Portfolio projects</b></h2>
 <b>
 1. Analysis of CSV data for cycling 
-2. Data driven prediction models of energy use of appliances in a low-energy house
+<n>2. Data driven prediction models of energy use of appliances in a low-energy house</n>
 3. Manually implementing a k-means clustering algorithim on arbitrary data points
 </b>
 
