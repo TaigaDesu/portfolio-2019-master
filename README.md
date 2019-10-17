@@ -1,7 +1,7 @@
 COMP257/ITEC657 Data Science Portfolio 
 ===
 
-Portfolio projects
+<b>Portfolio projects</b>
 
 1. Analysis of CSV data for cycling 
 2. Data driven prediction models of energy use of appliances in a low-energy house
