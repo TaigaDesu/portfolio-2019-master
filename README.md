@@ -37,7 +37,7 @@ Overview:</p>
 </ul>
 
 
-<h2>(Commit History from other repository)</h2>
+<h2>(Commit History from other repository <a href="https://github.com/TaigaDesu/portfolio-2019-master/blob/master/ReadCommitHist.md">(readMe)</a></h2>
 <p><b> Portfolio 1 commit History </b></p>
 <img src ="CommitHistory\portfolio1 history.JPG" style="width:200px;height:200px;">
 <b> Portfolio 2 commit History </b>
