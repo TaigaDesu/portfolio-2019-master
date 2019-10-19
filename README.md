@@ -2,8 +2,8 @@ COMP257/ITEC657 Data Science Portfolio
 ===
 
 <h1><b>Portfolio projects</b></h1>
-1. Analysis of CSV data for cycling </p>
-<b>Overview:</b></p>
+<b>1. Analysis of CSV data for cycling</b></p>
+Overview:</p>
 <ul>
   <li>Imports</li>
   <li>Loading data</li>
@@ -15,8 +15,8 @@ COMP257/ITEC657 Data Science Portfolio
   <li>Line plot that summarises the number of km ridden each month over the period of the data</li>
   <li> group barplot that shows the activity over a given month, with the sum of the values</li>
 </ul>
-2. Data driven prediction models of energy use of appliances in a low-energy house</p>
-<b>Overview:</b></p>
+<b>2. Data driven prediction models of energy use of appliances in a low-energy house</b></p>
+Overview:</p>
 <ul>
   <li>Imports</li>
   <li>Loading Energy data</li>
@@ -28,8 +28,8 @@ COMP257/ITEC657 Data Science Portfolio
   <li>Linear regression and a residual plot for the linear regression model (train and test data)</li>
   <li>Recursive feature elimination</li>
 </ul>
-3. Clustering Visualisation</p>
-<b>Overview:</b></p>
+<b>3. Clustering Visualisation</b></p>
+Overview:</p>
 <ul>
   <li>Imports</li>
   <li>Generate random cluster centres</li>
